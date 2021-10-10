@@ -43,7 +43,7 @@
                         "url": "https://raw.githubusercontent.com/ebud0001/FIT3179-Week-10-Homework/main/vic_suburbs.json",
                         "format": {"type": "topojson", "feature": "vic_suburbs"}
                     },
-                    "key": "SUBURB",
+                    "key": "properties.NAME",
                     "fields": ["PRICE"]
                 },
                 "as": "geo"
